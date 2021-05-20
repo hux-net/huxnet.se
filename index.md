@@ -11,4 +11,4 @@ HUXNET or AS52192 welcomes all physical peering.
 # $ cat contact.txt
 {:id="contact"}
 
-We are avible per email at noc@huxnet.se
+We are reachble per email at noc@huxnet.se
