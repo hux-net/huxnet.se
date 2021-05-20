@@ -2,7 +2,13 @@
 layout: default
 ---
 
-# $ cat about.txt
-{:id="about"}
+# $ cat huxnet.txt
+{:id="huxnet"}
 
-This is just a placeholder
+HUXNET or AS52192 welcomes all physical peering.
+
+
+# $ cat contact.txt
+{:id="contact"}
+
+We are avible per email at noc@huxnet.se
