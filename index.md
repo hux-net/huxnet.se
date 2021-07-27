@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# $ cat huxnet.txt
+# Huxnet
 {:id="huxnet"}
 
 HUXNET or AS52192 welcomes all physical peering.
 
 
-# $ cat contact.txt
+# contact
 {:id="contact"}
 
-We are reachble per email at noc@huxnet.se
+In case of any questions send an email to noc@hguxnet.se and we will get back to you.
